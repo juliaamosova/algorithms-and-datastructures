@@ -25,4 +25,3 @@ function reverse(str) {
     return joinArray; // "olleh"
 }
 
-module.exports = reverse;
