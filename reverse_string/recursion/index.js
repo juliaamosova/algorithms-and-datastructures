@@ -6,7 +6,7 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
-// 3. Reverse a String With Recursion
+// Reverse a String With Recursion
 
 function reverse(str) {
     if (str === "") // This is the terminal case that will end the recursion
