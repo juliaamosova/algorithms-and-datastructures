@@ -6,7 +6,7 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
-// 2. Reverse a String With a Decrementing For Loop
+// Reverse a String With a Decrementing For Loop
 
 function reverse(str) {
     // Step 1. Create an empty string that will host the new created string
