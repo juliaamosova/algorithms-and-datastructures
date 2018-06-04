@@ -6,7 +6,7 @@
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
 
-// 1. Reverse a String With Built-In Functions
+// Reverse a String With Built-In Functions
 
 function reverse(str) {
     // Step 1. Use the split() method to return a new array
